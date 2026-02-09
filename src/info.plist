@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.tonarilabs.ni-directory</string>
+	<key>category</key>
+	<string>Tools</string>
+	<key>connections</key>
+	<dict>
+		<key>3A4C2E5B-8F1D-4A9E-B6C7-D8E9F0A1B2C3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E280E065-A8D2-4186-B16D-C87BD55788BA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E280E065-A8D2-4186-B16D-C87BD55788BA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B1C2D3E4-F5A6-7B8C-9D0E-1F2A3B4C5D6E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Tonarilabs</string>
+	<key>description</key>
+	<string>Search Native Instruments Expansions by name or genre/style.</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>NI Directory</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>cd "$(dirname "$0")" &amp;&amp; /usr/bin/python3 search.py "__record__:{query}"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E280E065-A8D2-4186-B16D-C87BD55788BA</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>nidr</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Searching expansions...</string>
+				<key>script</key>
+				<string></string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>search.py</string>
+				<key>skipuniversalaction</key>
+				<true/>
+				<key>subtext</key>
+				<string>Search by name, genre, or style tag</string>
+				<key>title</key>
+				<string>NI Expansion Search</string>
+				<key>type</key>
+				<integer>8</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>3A4C2E5B-8F1D-4A9E-B6C7-D8E9F0A1B2C3</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>B1C2D3E4-F5A6-7B8C-9D0E-1F2A3B4C5D6E</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>NI Directory - Native Instruments Expansion Lookup
+
+Usage:
+  nidr {query}
+
+Examples:
+  nidr anima       → finds Anima Ascent
+  nidr funk        → finds all funk-tagged expansions
+  nidr techno dark → finds dark techno expansions
+  nidr jazz        → finds jazz-related expansions
+  nidr leap        → finds all Leap Expansions
+
+Special:
+  nidr !refresh    → rescan installed NI products
+
+Press Enter to copy the expansion name.
+Press Cmd+L for large type view with full tags.</string>
+	<key>uidata</key>
+	<dict>
+		<key>3A4C2E5B-8F1D-4A9E-B6C7-D8E9F0A1B2C3</key>
+		<dict>
+			<key>xpos</key>
+			<real>50</real>
+			<key>ypos</key>
+			<real>330</real>
+		</dict>
+		<key>B1C2D3E4-F5A6-7B8C-9D0E-1F2A3B4C5D6E</key>
+		<dict>
+			<key>note</key>
+			<string>Copy name of expansion to clipboard</string>
+			<key>xpos</key>
+			<real>1230</real>
+			<key>ypos</key>
+			<real>340</real>
+		</dict>
+		<key>E280E065-A8D2-4186-B16D-C87BD55788BA</key>
+		<dict>
+			<key>note</key>
+			<string>Pull and show recently chosen pack names</string>
+			<key>xpos</key>
+			<real>385</real>
+			<key>ypos</key>
+			<real>125</real>
+		</dict>
+	</dict>
+	<key>userconfigurationconfig</key>
+	<array/>
+	<key>version</key>
+	<string>3.0.0</string>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>

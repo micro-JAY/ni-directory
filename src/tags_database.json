@@ -1,0 +1,614 @@
+{
+  "80s New Wave": {
+    "tags": "80s, new wave, vintage synths, bass lines, lush pads, drum machines",
+    "type": "Maschine"
+  },
+  "Acoustic Drums": {
+    "tags": "acoustic, drums, live drummer, organic, punchy kits, loops",
+    "type": "Leap"
+  },
+  "Afrobeats": {
+    "tags": "afrobeats, african, rhythmic",
+    "type": "Leap"
+  },
+  "Amplified Funk": {
+    "tags": "funk, soul, groovy, The Groove",
+    "type": "Maschine"
+  },
+  "Anima Ascent": {
+    "tags": "ultra-modern, pop, trap, R&B, soul, genre-defying",
+    "type": "Maschine"
+  },
+  "Aquarius Earth": {
+    "tags": "jazz, hip-hop, funk, laid-back, soulful, late 90s soul, live bass, synths",
+    "type": "Maschine"
+  },
+  "Arcane Attic": {
+    "tags": "8-bit, chiptune, retro, field recordings, percussive, experimental",
+    "type": "Maschine"
+  },
+  "Astral Flutter": {
+    "tags": "ambient, ethereal, floating, atmospheric, textures, dreamy",
+    "type": "Maschine"
+  },
+  "Backyard Jams": {
+    "tags": "hip-hop, future beats, west coast, funk, soul, sunny",
+    "type": "Maschine"
+  },
+  "Basement Era": {
+    "tags": "hip-hop, underground, raw, gritty, boom bap",
+    "type": "Maschine"
+  },
+  "Bite": {
+    "tags": "grime, trap, dark, sharp, aggressive, bass",
+    "type": "Maschine"
+  },
+  "Body Mechanik": {
+    "tags": "industrial, EBM, avant-garde, guttural synths, caustic kits, metallic hits, experimental",
+    "type": "Maschine"
+  },
+  "Borough Chops": {
+    "tags": "hip-hop, boom bap, golden era, hard-hitting drums, stacked chords",
+    "type": "Maschine"
+  },
+  "Bounce": {
+    "tags": "bounce, hip-hop, energetic, bass, party, uptempo",
+    "type": "Maschine"
+  },
+  "Brass n Bounce": {
+    "tags": "brass, bounce, pop, funk, shimmering guitars, groovy basslines, vintage keys",
+    "type": "Maschine"
+  },
+  "Bump": {
+    "tags": "EDM, rave, basslines",
+    "type": "Massive X"
+  },
+  "Bumpin Flava": {
+    "tags": "UK garage, skippy beats, silky synths, vocal hooks, groovy basslines",
+    "type": "Maschine"
+  },
+  "Burnt Hues": {
+    "tags": "hip-hop, west coast, underground, sample-heavy, funk, jazz, soul, lo-fi",
+    "type": "Maschine"
+  },
+  "Byte Riot": {
+    "tags": "chiptune, 8-bit, circuit-bent, lo-fi, retro, video game",
+    "type": "Maschine"
+  },
+  "Carbon Decay": {
+    "tags": "industrial techno, post-punk, rave, hardcore, warehouse, UK techno, dark",
+    "type": "Maschine"
+  },
+  "Caribbean Current": {
+    "tags": "caribbean, afro-caribbean, dancehall, reggae, global, tropical",
+    "type": "Maschine"
+  },
+  "Cavern Floor": {
+    "tags": "techno, underground, dark, warehouse, minimal, deep",
+    "type": "Maschine"
+  },
+  "Certified Gold": {
+    "tags": "trap, hip-hop, heavyweight drums, futuristic keys, hard-hitting bass",
+    "type": "Maschine"
+  },
+  "Charge": {
+    "tags": "modular, synth, electronic, powerful, charged, massive sound",
+    "type": "Maschine"
+  },
+  "Chromatic Fire": {
+    "tags": "multi-genre, celebration, Maschine 10th anniversary, diverse styles, free",
+    "type": "Maschine"
+  },
+  "Circuit Halo": {
+    "tags": "electronica, cerebral, vintage synths, drum machines, glitched-out, experimental",
+    "type": "Maschine"
+  },
+  "Cloud Supply": {
+    "tags": "future bass, wavy, melodic, synths, trap",
+    "type": "Maschine"
+  },
+  "Conant Gardens": {
+    "tags": "Detroit, hip-hop, funk, jazz, afrobeat, deep house, soulful",
+    "type": "Maschine"
+  },
+  "Concrete Sun": {
+    "tags": "hip-hop, trap, dark, urban, heavy, aggressive",
+    "type": "Maschine"
+  },
+  "Crate Cuts": {
+    "tags": "hip-hop, downtempo, sample-heavy, soul, jazz, funk, classic gear, lo-fi",
+    "type": "Maschine"
+  },
+  "DJ Khalil": {
+    "tags": "hip-hop, west coast, cinematic, hard-hitting, producer, artist expansion",
+    "type": "Artist"
+  },
+  "Decoded Forms": {
+    "tags": "post-jungle, deconstructed breaks, evolving pads, bass, crisp drums, experimental",
+    "type": "Maschine"
+  },
+  "Deep Matter": {
+    "tags": "techno, ethereal, Berlin, dark, atmospheric, ambient, moody bass",
+    "type": "Maschine"
+  },
+  "Deft Lines": {
+    "tags": "electronic, minimal, precise, clean, sharp, refined",
+    "type": "Maschine"
+  },
+  "Disco and Funk": {
+    "tags": "disco, funk, groovy, dance, retro, vibrant synths, punchy basslines, soulful vocals",
+    "type": "Leap"
+  },
+  "District Xeo": {
+    "tags": "urban, hip-hop, trap, modern, bass, futuristic",
+    "type": "Maschine"
+  },
+  "Drift Theory": {
+    "tags": "lo-fi, hip-hop, genre-blending, hazy, chill, atmospheric",
+    "type": "Maschine"
+  },
+  "Drop Squad": {
+    "tags": "dubstep, bass, punchy drums, wobbles, synths, deep basses",
+    "type": "Maschine"
+  },
+  "Drum Breaks": {
+    "tags": "drum breaks, vintage, gritty, loops, breakbeats, sampled",
+    "type": "Leap"
+  },
+  "Drum State": {
+    "tags": "drum machine, iconic, electronic, beats, classic, versatile",
+    "type": "Maschine"
+  },
+  "Echo Versions": {
+    "tags": "dub, echo, reggae, bass, spacey, atmospheric, modern dub",
+    "type": "Maschine"
+  },
+  "Elastic Thump": {
+    "tags": "house, deep house, bouncy, bass, electronic, groove",
+    "type": "Maschine"
+  },
+  "Empire Breaks": {
+    "tags": "hip-hop, boom bap, golden era, hard-hitting, drums, classic",
+    "type": "Maschine"
+  },
+  "Faded Reels": {
+    "tags": "funk, R&B, vintage, warm, live instruments, hazy, lo-fi, tape",
+    "type": "Maschine"
+  },
+  "Free Form": {
+    "tags": "experimental, freeform, creative, sound design, abstract",
+    "type": "Maschine"
+  },
+  "George Duke Soul Treasures": {
+    "tags": "soul, funk, jazz, keys, vintage, classic, R&B",
+    "type": "Maschine"
+  },
+  "Global Shake": {
+    "tags": "african, world, international, rhythms, bright melodies, global, contemporary Africa",
+    "type": "Maschine"
+  },
+  "Golden Kingdom": {
+    "tags": "cinematic, epic, orchestral, hip-hop, dramatic, atmospheric",
+    "type": "Maschine"
+  },
+  "Grey Forge": {
+    "tags": "techno, analog drum machines, synthesizers, contemporary, sampled, dark",
+    "type": "Maschine"
+  },
+  "Halcyon Sky": {
+    "tags": "trance, progressive, uplifting, melodic, euphoric, dance",
+    "type": "Maschine"
+  },
+  "Halo Vox": {
+    "tags": "vocal, choir, soulful, radiant voices, glowing vowels, shimmering pads",
+    "type": "Play Series"
+  },
+  "Hazy Days": {
+    "tags": "chill, downtempo, hazy, relaxed, summer, lo-fi",
+    "type": "Maschine"
+  },
+  "Headland Flow": {
+    "tags": "southern hip-hop, soulful, cruise, laid-back, warm",
+    "type": "Maschine"
+  },
+  "Hexagon Highway": {
+    "tags": "experimental electronic, hyper-sonic, drums, percussion, genre-bending",
+    "type": "Maschine"
+  },
+  "Higher Place": {
+    "tags": "house, classic house, uplifting, soulful house, dance, euphoric",
+    "type": "Maschine"
+  },
+  "Homage": {
+    "tags": "hip-hop, lo-fi, grainy melodics, warped textures, lo-fi edge",
+    "type": "Maschine"
+  },
+  "Hot Vocals": {
+    "tags": "R&B, pop, vocals, contemporary, polished, lead lines, harmonies",
+    "type": "Maschine"
+  },
+  "House Grooves": {
+    "tags": "house, grooves, dance, deep house, soulful, rhythmic",
+    "type": "Maschine"
+  },
+  "Ignition Code": {
+    "tags": "electronic, futuristic, synths, bass, energetic, coded",
+    "type": "Maschine"
+  },
+  "Ignition Keys": {
+    "tags": "pop, hip-hop, keys, chart, vintage instruments, melodic",
+    "type": "Maschine"
+  },
+  "Indigo Dust": {
+    "tags": "techno, deep, euphoria, pulsating rhythms, basses, synth lines",
+    "type": "Maschine"
+  },
+  "Infamous Flow": {
+    "tags": "hip-hop, trap, aggressive, hard-hitting, flow, urban",
+    "type": "Maschine"
+  },
+  "Infinite Escape": {
+    "tags": "minimal, micro house, trippy, percussive loops, subs, textures",
+    "type": "Maschine"
+  },
+  "Jazz Hop": {
+    "tags": "jazz, hip-hop, lo-fi, vinyl, laid-back, late-night, warm textures",
+    "type": "Leap"
+  },
+  "Kino": {
+    "tags": "cinematic, suspense, eerie, drones, dramatic impacts, Massive X",
+    "type": "Massive X"
+  },
+  "Latin Trap": {
+    "tags": "latin, trap, reggaeton, Latin-American, bass, 808",
+    "type": "Leap"
+  },
+  "Lazer Dice": {
+    "tags": "future bass, deep rhythms, signature sound design, bass, electronic",
+    "type": "Maschine"
+  },
+  "Lilac Glare": {
+    "tags": "pop, indie, dreamy, shimmering, modern, bright",
+    "type": "Maschine"
+  },
+  "Liquid Energy": {
+    "tags": "EDM, dance, liquid, energy, synths, uplifting",
+    "type": "Maschine"
+  },
+  "Lo-Fi Glow": {
+    "tags": "lo-fi, chill, warm, hazy, beats, downtempo, relaxed",
+    "type": "Maschine"
+  },
+  "Lockdown Grind": {
+    "tags": "hip-hop, gritty, urban, dark, heavy, bass",
+    "type": "Maschine"
+  },
+  "London Grit": {
+    "tags": "grime, UK, underground, bone-crushing bass, icy FX, London",
+    "type": "Maschine"
+  },
+  "Lone Forest": {
+    "tags": "dub techno, electronica, atmospheric, dusty drums, low basslines, haunting",
+    "type": "Maschine"
+  },
+  "Lucid Mission": {
+    "tags": "trance, EDM, hyper-real, synths, build ups, steady beats",
+    "type": "Maschine"
+  },
+  "Lunar Echoes": {
+    "tags": "ambient, space, atmospheric, cinematic, ethereal, echoes",
+    "type": "Maschine"
+  },
+  "Luxa": {
+    "tags": "pop, bold, chart, spotlight, top 100, sonic DNA",
+    "type": "Kontakt"
+  },
+  "Luxury Hip Hop": {
+    "tags": "hip-hop, orchestral, brass, opulent, lavish, woodwinds, dreamy",
+    "type": "Leap"
+  },
+  "Magnate Hustle": {
+    "tags": "pop, urban, chart-ready, prismatic, forward-thinking",
+    "type": "Maschine"
+  },
+  "Magnetic Coast": {
+    "tags": "chill, coastal, breezy, downtempo, mellow, smooth",
+    "type": "Maschine"
+  },
+  "Marble Rims": {
+    "tags": "hip-hop, west coast, low-riding, funk, urban, cruise",
+    "type": "Maschine"
+  },
+  "Maschine Central": {
+    "tags": "multi-genre, kits, instruments, presets, general purpose",
+    "type": "Maschine"
+  },
+  "Mechanix": {
+    "tags": "techno, mechanical, industrial, hard, driving, electronic",
+    "type": "Maschine"
+  },
+  "Melted Vibes": {
+    "tags": "warped keys, detuned plucks, wonky synths, earworms, lo-fi, experimental",
+    "type": "Maschine"
+  },
+  "Meteoric Rise": {
+    "tags": "pop, soulful melodies, trap drums, lazer synths, cutting-edge, feel-good",
+    "type": "Maschine"
+  },
+  "Midnight Flow": {
+    "tags": "R&B, hip-hop, midnight, smooth, dark, moody, late-night",
+    "type": "Maschine"
+  },
+  "Midnight Sunset": {
+    "tags": "funk, R&B, vintage, warm live instruments, analog synths, drum machines, retro",
+    "type": "Maschine"
+  },
+  "Moebius": {
+    "tags": "experimental, complex loops, rhythmic, electronic, abstract, Massive X",
+    "type": "Massive X"
+  },
+  "Molten Veil": {
+    "tags": "tech house, dense basslines, jarring hi-hats, seismic kicks, dancefloor",
+    "type": "Maschine"
+  },
+  "Mother Board": {
+    "tags": "Detroit electro, booming analog beats, funky chords, vocoder, retro-futuristic, vintage machines",
+    "type": "Maschine"
+  },
+  "Motor Impact": {
+    "tags": "techno, industrial, driving, percussion, hard, relentless",
+    "type": "Maschine"
+  },
+  "Neo Boogie": {
+    "tags": "boogie, funk, electro-funk, groovy, dance, retro",
+    "type": "Maschine"
+  },
+  "Neon Drive": {
+    "tags": "synth pop, luminous, unforgettable melody, future-retro, synthwave",
+    "type": "Maschine"
+  },
+  "Nocturnal State": {
+    "tags": "techno, house, minimal, polished, clean, night",
+    "type": "Maschine"
+  },
+  "Opaline Drift": {
+    "tags": "ambient, ethereal, dreamy, downtempo, atmospheric, subtle",
+    "type": "Maschine"
+  },
+  "Our House": {
+    "tags": "house, classic, pure house vibes, organs, acid, stabs, sequenced, Massive X",
+    "type": "Massive X"
+  },
+  "Paradise Rinse": {
+    "tags": "dancehall, reggae, tropical, hip-hop, bass, island",
+    "type": "Maschine"
+  },
+  "Platinum Bounce": {
+    "tags": "hip-hop, hits, radio, clubs, dirty south, R&B, crossover, club anthems",
+    "type": "Maschine"
+  },
+  "Platinum Pop": {
+    "tags": "pop, chart, polished, modern, radio-ready, hooks",
+    "type": "Maschine"
+  },
+  "Polar Flare": {
+    "tags": "ambient, icy, cold, atmospheric, electronic, cinematic",
+    "type": "Maschine"
+  },
+  "Prismatic Bliss": {
+    "tags": "ambient, electronica, immersive, sonic explorations, downtempo, dreamy",
+    "type": "Maschine"
+  },
+  "Progressive Trance": {
+    "tags": "trance, progressive, uplifting, dance, euphoric, synths",
+    "type": "Leap"
+  },
+  "Prospect Haze": {
+    "tags": "trap, hip-hop, hazy, dark, 808, atmospheric, moody",
+    "type": "Maschine"
+  },
+  "Pulse": {
+    "tags": "bass, heavy-hitting, electronic, sub, pulsing, Massive X",
+    "type": "Massive X"
+  },
+  "Pulswerk": {
+    "tags": "techno, house, Berlin, tech house, dancefloor, Pan-Pot",
+    "type": "Maschine"
+  },
+  "Pure Drip": {
+    "tags": "trap, hip-hop, fluorescent, melodic, 808s, chart-dominating, wavy chops",
+    "type": "Maschine"
+  },
+  "Queensbridge Story": {
+    "tags": "hip-hop, east coast, Havoc, Mobb Deep, gritty, boom bap, New York",
+    "type": "Maschine"
+  },
+  "Rare Vibrations": {
+    "tags": "jazz, electronic, hip-hop, soulful, crisp, modern jazz",
+    "type": "Maschine"
+  },
+  "Raw Rhythm": {
+    "tags": "raw, drums, rhythm, percussion, organic, punchy",
+    "type": "Maschine"
+  },
+  "Raw Voltage": {
+    "tags": "electro, bass, aggressive, raw, electronic, analog",
+    "type": "Maschine"
+  },
+  "Rhythm Source": {
+    "tags": "jungle, drum and bass, breaks, MC vocals, rolling, bass",
+    "type": "Maschine"
+  },
+  "Rising Crescent": {
+    "tags": "Middle Eastern, Mediterranean, oriental, global, east meets west",
+    "type": "Maschine"
+  },
+  "RnB Licks": {
+    "tags": "R&B, contemporary, soulful, guitar riffs, chords, licks, trap drums, pop",
+    "type": "Maschine"
+  },
+  "Rolling Tides": {
+    "tags": "liquid drum and bass, flowing, melodic, pads, breaks, vocals, lush",
+    "type": "Maschine"
+  },
+  "Rush": {
+    "tags": "EDM, energetic, rush, high-energy, dance, synths",
+    "type": "Maschine"
+  },
+  "Sacred Futures": {
+    "tags": "hip-hop, trap, next-gen, crisp hooks, hazy atmospheres",
+    "type": "Maschine"
+  },
+  "Sasha": {
+    "tags": "electronic, rave, euphoria, trance, progressive house, legendary",
+    "type": "Artist"
+  },
+  "Satin Looks": {
+    "tags": "R&B, signature sound, emotive, late 80s, smooth, contemporary beats",
+    "type": "Maschine"
+  },
+  "Sierra Grove": {
+    "tags": "soul, 21st century, R&B, groove, deep sample library",
+    "type": "Maschine"
+  },
+  "Solar Breeze": {
+    "tags": "tropical, house, dance, summery, uplifting, breezy",
+    "type": "Maschine"
+  },
+  "Soul Choir": {
+    "tags": "soul, choir, vocals, gospel, harmonies, powerful",
+    "type": "Maschine"
+  },
+  "Soul Gold": {
+    "tags": "soul, vocals, 60s, 70s, vocal lines, hooks, harmonies, legends",
+    "type": "Leap"
+  },
+  "Soul Magic": {
+    "tags": "soul, 60s swing, 70s funk, 80s electronic, 90s R&B, vintage to modern",
+    "type": "Maschine"
+  },
+  "Soul Sessions": {
+    "tags": "soul, evolution, vintage, classic, warm, timeless",
+    "type": "Maschine"
+  },
+  "Spectrum Quake": {
+    "tags": "bass, bold, booming, multi-genre, Massive X, powerful",
+    "type": "Massive X"
+  },
+  "Stadium Flex": {
+    "tags": "EDM, stadium, festival, anthemic, big room, high-energy",
+    "type": "Maschine"
+  },
+  "Static Friction": {
+    "tags": "tech house, relentless, energized, pounding, custom sounds, dancefloor",
+    "type": "Maschine"
+  },
+  "Street Swarm": {
+    "tags": "hip-hop, boom bap, 90s, New York, analog drums, 70s cinemascapes, vintage funk",
+    "type": "Maschine"
+  },
+  "System Clash": {
+    "tags": "dub, reggae, soundsystem, bass, dancehall, heavy",
+    "type": "Maschine"
+  },
+  "The Stereotypes": {
+    "tags": "pop, chart-busting, melodic loops, popped bass, sizzling kits, R&B",
+    "type": "Artist"
+  },
+  "Timeless Glow": {
+    "tags": "house, classic house, silky, bouncing drums, jazzy chords, soulful vocal chops, bass",
+    "type": "Maschine"
+  },
+  "Transistor Punch": {
+    "tags": "house, dance, dancefloor bounce, melodic, synths, drum hits",
+    "type": "Maschine"
+  },
+  "Trill Rays": {
+    "tags": "trap, hip-hop, trill, melodic, bass, modern, atmospheric",
+    "type": "Maschine"
+  },
+  "True School": {
+    "tags": "hip-hop, jazz, boom bap, jazz-based, classic, golden era",
+    "type": "Maschine"
+  },
+  "Velvet Bloom": {
+    "tags": "R&B, soulful, pop, lush organic melodics, versatile grooves",
+    "type": "Maschine"
+  },
+  "Velvet Lounge": {
+    "tags": "lounge, chill, jazz, smooth, sophisticated, relaxed",
+    "type": "Maschine"
+  },
+  "Vintage Heat": {
+    "tags": "vintage, warm, analog, retro, classic, heat",
+    "type": "Maschine"
+  },
+  "Void Eclipse": {
+    "tags": "techno, hard-edged, acid, electro, EBM, dark, aggressive",
+    "type": "Maschine"
+  },
+  "Wake": {
+    "tags": "EDM, rave music, screeching synths, growling subs, percussive synth stabs",
+    "type": "Massive X"
+  },
+  "Young Phantom": {
+    "tags": "hip-hop, trap, youthful, phantom, dark, energetic, modern",
+    "type": "Maschine"
+  },
+  "Black Arc": {
+    "tags": "reggae, dub, dub techno, dubstep, reggaeton, Jamaican, roots, Lee Scratch Perry",
+    "type": "Maschine"
+  },
+  "Crystal Daggers": {
+    "tags": "electronica, mainstream, sharp, thick beats, shimmering synths, melodic, polished",
+    "type": "Maschine"
+  },
+  "Darkwave Pads": {
+    "tags": "darkwave, pads, drones, moody, analog, warm, ambient, atmospheric",
+    "type": "Massive X"
+  },
+  "Electric Vice": {
+    "tags": "electro house, gritty, stabbing bass, acidic leads, club, pumping, EDM",
+    "type": "Maschine"
+  },
+  "Helios Ray": {
+    "tags": "hip-hop, leftfield, cosmic, kinetic, forward-thinking, experimental, future beats",
+    "type": "Maschine"
+  },
+  "Hot List": {
+    "tags": "pop, hip-hop, chart, radio-ready, drums, melodic, Snipe Young, modern",
+    "type": "Maschine"
+  },
+  "Jersey Ride": {
+    "tags": "jersey club, soulful, rapid-fire kicks, synths, vocals, melodic, dance",
+    "type": "Maschine"
+  },
+  "Lo-fi & Chill Plucks": {
+    "tags": "lo-fi, chill, plucks, keys, nostalgic, warm, cozy, laid-back",
+    "type": "Massive X"
+  },
+  "Melodic Techno Bass": {
+    "tags": "melodic techno, bass, deep, pulsing, electronic, immersive, grooves",
+    "type": "Massive X"
+  },
+  "Melodic Trap": {
+    "tags": "trap, melodic, synth pads, vocal textures, deep bass, piano, chilled, hazy",
+    "type": "Leap"
+  },
+  "Modern Latin": {
+    "tags": "reggaeton, Latin trap, Brazilian funk, corridos tumbados, Latin, modern",
+    "type": "Leap"
+  },
+  "Roux": {
+    "tags": "New Orleans bounce, live bass, brass, hyper-energetic, synths, vibrant, funk",
+    "type": "Maschine"
+  },
+  "Scoring Sequences": {
+    "tags": "cinematic, scoring, sequences, rhythmic, melodic, drama, motion, film",
+    "type": "Massive X"
+  },
+  "Warped Symmetry": {
+    "tags":"EDM, electronica, dance, 90s vibes, hybrid kits, analog, organic",
+    "type": "Maschine"
+  }
+}

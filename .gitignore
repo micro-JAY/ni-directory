@@ -1,0 +1,10 @@
+# User-generated (local to each install)
+expansions.json
+recents.json
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
