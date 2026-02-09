@@ -89,6 +89,6 @@ Generated locally (gitignored):
 
 MIT — see [LICENSE](LICENSE)
 
-## Credits
 
-Built by [Tonari Labs](https://github.com/tonarilabs)
+TONARI LABS
+
