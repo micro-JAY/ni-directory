@@ -53,7 +53,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>cd "$(dirname "$0")" &amp;&amp; /usr/bin/python3 search.py "__record__:{query}"</string>
+				<string>cd "$alfred_preferences/workflows/$alfred_workflow_uid" &amp;&amp; /usr/bin/python3 search.py "__record__:{query}"</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
