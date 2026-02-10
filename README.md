@@ -1,6 +1,6 @@
 # NI Directory
 
-An [Alfred](https://www.alfredapp.com/) workflow for quickly searching your installed [Native Instruments](https://www.native-instruments.com/) expansions by name, genre, or style tags.
+Search your installed [Native Instruments](https://www.native-instruments.com/) expansions by name, genre, or style tags — from [Alfred](https://www.alfredapp.com/) or the terminal.
 
 ![NI Directory Screenshot](assets/screenshot.png)
 
@@ -17,6 +17,20 @@ An [Alfred](https://www.alfredapp.com/) workflow for quickly searching your inst
 
 ## Installation
 
+### CLI (no Alfred required)
+
+```bash
+git clone https://github.com/micro-JAY/ni-directory.git
+cd ni-directory
+./install-cli.sh
+```
+
+The install script symlinks `nidr` to `/usr/local/bin/`. If that fails (permissions), it offers to add a shell alias instead.
+
+**Requirements:** macOS, Python 3 (included with macOS)
+
+### Alfred Workflow
+
 1. Download the latest `NI-Directory.alfredworkflow` from [Releases](../../releases)
 2. Double-click to install in Alfred
 3. Type `nidr` — the workflow will auto-detect your installed expansions on first run
@@ -24,6 +38,21 @@ An [Alfred](https://www.alfredapp.com/) workflow for quickly searching your inst
 **Requirements:** Alfred 5 with Powerpack, macOS, Python 3 (included with macOS)
 
 ## Usage
+
+### CLI
+
+| Command | Description |
+|---|---|
+| `nidr` | Show recents, then all expansions |
+| `nidr funk` | Find all funk-tagged expansions |
+| `nidr techno dark` | Multi-word search (matches all terms) |
+| `nidr leap` | Filter by expansion type |
+| `nidr --refresh` | Rescan installed NI products |
+| `nidr --help` | Show help |
+
+Output is colored in the terminal and automatically plain when piped, so `nidr | fzf` just works.
+
+### Alfred
 
 | Command | Description |
 |---|---|
@@ -73,12 +102,15 @@ If a non-expansion product (instrument, library, factory content) is showing up 
 ## File Structure
 
 ```
+cli/
+└── nidr.py              # CLI entry point
 src/
-├── search.py            # Main search logic + auto-setup
+├── search.py            # Alfred search logic + auto-setup
 ├── tags_database.json   # Curated genre/style tags (152 expansions)
 ├── ignore_list.json     # NI products to exclude (instruments, libraries)
 ├── info.plist           # Alfred workflow configuration
 └── icon.png             # Workflow icon
+install-cli.sh           # CLI installer (symlink or alias)
 ```
 
 Generated locally (gitignored):
